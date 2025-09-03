@@ -39,15 +39,9 @@ Includes an advanced Smart Override Mode that remaps object references between h
 
 ## 📸 Preview
 
-_Add your screenshots or GIFs here to showcase the tool in action._
-
-Example placeholders:
-
-![Preview Window](docs/images/preview-window.png)  
+![Preview Window](images/preview.gif)  
 *Component Copier window inside Unity Editor*
 
-![Copy in Action](docs/images/copy-action.gif)  
-*Copying multiple components with Smart Override Mode enabled*
 
 ---
 
